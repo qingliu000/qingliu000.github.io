@@ -10,7 +10,10 @@ comments: true
 share: true
 ---
 
-黑皮帮忙搭了个博客，基于Jekyll的静态博客。黑皮自作主张，帮我把博客首页的大标题给取了，名曰：Life, cooking and selling *meng*.
+
+黑皮帮忙搭了个博客，基于Jekyll的静态博客。
+
+黑皮自作主张，帮我把博客首页的大标题给取了，名曰：Life, cooking and selling *meng*.
 
 前两个还好理解，我爱生活，我爱烹饪，可最后一个selling *meng*是神码意思？
 
